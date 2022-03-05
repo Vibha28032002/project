@@ -1,0 +1,25 @@
+body{
+    background-image: url(nat.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  background-size: cover;
+    font-family: calibri;
+    }
+h1  {
+        font-weight:bold;
+        color:rgb(246, 248, 246);
+        text-align:center;
+        text-decoration:underline ;
+    }
+table
+    {
+        color:white;
+        font-size:15px;
+        font-weight: bold;
+        background-color:rgba(10, 70, 10, 0.288);
+        border-collapse:collapse;
+        border:2px solid rgb(0, 43, 2);
+    }
+.form-group{
+    color: aliceblue;
+}
